@@ -46,7 +46,7 @@ please use the first column of the table.
 python3 -m crimeretriever.command getcsv --dbfile ./crime.db --startdate 2015-01-01 --enddate 2015-01-31 --crimetypes burglary theft-from-person --outfile 'export.csv'
 ```
 
-The columns in the generate CSV are: 
+The columns in the generated CSV are: 
 ```sql
 INDEX, MONTH, LATITUDE, LONGITUDE, DESCRIPTION, CRIME_TYPE
 ```
@@ -61,7 +61,7 @@ Currently, for London data, the following issues are not yet resolved:
 # Advanced Usage
 ## Regenerate the database from CSV files
 ```python
-python3 -m crimeretriever.command builddb --dbfile --rootpath ./path-to-folder-with-uk-police-csvs
+python3 -m crimeretriever.command builddb --dbfile new-db-name.db --rootpath ./path-to-folder-with-uk-police-csvs
 ```
 
 # Licence
