@@ -17,4 +17,4 @@ Currently, for London data, the following issues are not yet resolved:
 
 
 # Licence
-The data are originally licensed by [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+The data are originally licensed by [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). This manual, and the accompanying source code is licensed under MIT License - see [LICENCE.md](./LICENCE.md)
