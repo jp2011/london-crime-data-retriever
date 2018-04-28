@@ -15,24 +15,24 @@ website uses the names as in the second column of the below table. When using th
 please use the first column of the table.
 
 
-| Internal name               |         Official data.police.uk name
-| ---------------------------------------------------------------------
-| theft-from-person           |         Theft from the person
-| vehicle-crime               |         Vehicle crime
-| shoplifting                 |         Shoplifting
-| violence-sexual-offences    |         Violence and sexual offences
-| anti-social-behaviour       |         Anti-social behaviour
-| burglary                    |         Burglary
-| robbery                     |         Robbery
-| criminal-damage-arson       |         Criminal damage and arson
-| other-theft                 |         Other theft
-| possession-weapons          |         Possession of weapons
-| other-crime                 |         Other crime
-| public-order                |         Public order
-| drugs                       |         Drugs
-| bicycle-theft               |         Bicycle theft
-| violent-crime               |         Violent crime
-| public-disorder-weapons     |         Public disorder and weapons
+| Internal name               |         Official data.police.uk name   |
+| --------------------------- | -------------------------------------- |
+| theft-from-person           |         Theft from the person          |
+| vehicle-crime               |         Vehicle crime                  |
+| shoplifting                 |         Shoplifting                    |
+| violence-sexual-offences    |         Violence and sexual offences   |
+| anti-social-behaviour       |         Anti-social behaviour          |
+| burglary                    |         Burglary                       |
+| robbery                     |         Robbery                        |
+| criminal-damage-arson       |         Criminal damage and arson      |
+| other-theft                 |         Other theft                    |
+| possession-weapons          |         Possession of weapons          |
+| other-crime                 |         Other crime                    |
+| public-order                |         Public order                   |
+| drugs                       |         Drugs                          |
+| bicycle-theft               |         Bicycle theft                  |
+| violent-crime               |         Violent crime                  |
+| public-disorder-weapons     |         Public disorder and weapons    |
         
 
 # Steps to retrieve the data
