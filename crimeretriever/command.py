@@ -35,7 +35,7 @@ def process():
 
     db_connection = create_connection(db_file)
 
-    if action == "build-db":
+    if action == "builddb":
         root_path = arguments.rootpath
         db_bootstrap(db_connection, root_path)
 
