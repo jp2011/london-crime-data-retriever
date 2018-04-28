@@ -36,7 +36,7 @@ public-disorder-weapons     |         Public disorder and weapons
         
 
 # Steps to retrieve the data
-1. Download the dataset from [Kaggle](kaggle.com/jp2011/london-crime) as `crime.db` file. The file can be used as a SQLite database.
+1. Download the dataset from [Kaggle](kaggle.com/jp2011/london-crime) as `crime.db` file.
 2. Either use SQLite directly by loading `crime.db` that you downloaded in step 1, or use the provided python scripts to generate CSV files for a specific time interval and for specific crime types.
 
 # Examples of usage
