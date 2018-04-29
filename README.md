@@ -66,3 +66,8 @@ python3 -m crimeretriever.command builddb --dbfile new-db-name.db --rootpath ./p
 
 # Licence
 The data are originally licensed by [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). This manual, and the accompanying source code is licensed under MIT License - see [LICENCE.md](./LICENCE.md)
+
+
+Contains Ordnance Survey data © Crown copyright and database right 2012
+
+Contains National Statistics data © Crown copyright and database right 2012
