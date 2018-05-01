@@ -42,7 +42,7 @@ please use the first column of the table.
 # Examples of usage
 
 ## Generate a CSV file for specific crime types for a specific range
-```python
+```bash
 python3 -m crimeretriever.command getcsv --dbfile ./crime.db --startdate 2015-01-01 --enddate 2015-01-31 --crimetypes burglary theft-from-person --outfile 'export.csv'
 ```
 
@@ -60,7 +60,7 @@ Currently, for London data, the following issues are not yet resolved:
 
 # Advanced Usage
 ## Regenerate the database from CSV files
-```python
+```bash
 python3 -m crimeretriever.command builddb --dbfile new-db-name.db --rootpath ./path-to-folder-with-uk-police-csvs
 ```
 
